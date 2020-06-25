@@ -1,0 +1,865 @@
+The Project Gutenberg EBook of The Preservation of the Exterior of Wooden
+Buildings, by Allerton S. Cushman and Henry A. Gardner
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Preservation of the Exterior of Wooden Buildings
+
+Author: Allerton S. Cushman
+        Henry A. Gardner
+
+Release Date: June 21, 2020 [EBook #62444]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRESERVATION EXTERIOR WOODEN BUILDINGS ***
+
+
+
+
+Produced by Charlene Taylor, Tom Cosmas and the Online
+Distributed Proofreading Team at https://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+THE INSTITUTE OF INDUSTRIAL RESEARCH
+
+
+  Allerton S. Cushman, A. M., Ph. D., _Director, In Charge
+       Division Metallurgical Problems_.
+
+  Henry A. Gardner, _Assistant Director, In Charge Division of
+       Paint Technology_.
+
+  N. Monroe Hopkins, Ph. D., _In Charge Division of Electrical
+       Engineering and Electrochemistry_.
+
+  Chas. A. Crampton, M. D., Ph. G., _In Charge Division of
+       Food and Drug Products_.
+
+  G. W. Coggeshall, Ph. D., _In Charge Division of Mill
+       Problems_.
+
+  Chas. Baskerville, Ph. D., F. C. S., _In Charge Technology
+       of the Rarer Elements_.
+
+
+Copyright, 1911, The Institute of Industrial Research
+
+
+
+
+                 THE INSTITUTE OF INDUSTRIAL RESEARCH
+
+
+                           THE PRESERVATION
+
+                                OF THE
+
+                     EXTERIOR OF WOODEN BUILDINGS
+
+
+                                  BY
+
+                ALLERTON S. CUSHMAN, Director
+                 THE INSTITUTE OF INDUSTRIAL RESEARCH
+
+                                  AND
+
+               HENRY A. GARDNER, Asst. Director
+                      IN CHARGE DIVISION OF PAINT
+           TECHNOLOGY, THE INSTITUTE OF INDUSTRIAL RESEARCH
+
+
+                            [Illustration]
+
+
+                            WASHINGTON 1911
+
+
+
+  WASHINGTON, D. C.
+  PRESS OF JUDD & DETWEILER, INC.
+  1911
+
+
+
+
+
+PREFACE.
+
+
+For a number of years the writers have been making a study of
+industrial problems and have been publishing the information which they
+have acquired, regarding the value of various structural materials,
+for the benefit of consumers as well as producers. The Institute
+of Industrial Research has received so many requests recently for
+information in regard to just what paints should be selected for the
+protection and decoration of houses and other buildings that it has
+seemed best to sum up the subject in the form of a special pamphlet
+or bulletin. It is only after years of investigation work carried on
+by the authors, both separately and in co-operation, that any review
+of the work has seemed possible, for only recently have the results
+of tests carried on in a number of different localities seemed to
+justify a definite opinion in regard to the best selection of exterior
+paints. No attack on any one paint material is here included, but the
+value of each has been carefully weighed, and the attempt is made
+to discuss them in the light of experience and knowledge. It is the
+authors' intention in this bulletin to put into the hands of architects
+and paint users who may not be thoroughly familiar with the technical
+properties of paint materials, information which will enable them to
+make a proper and intelligent selection of paints for the preservation
+and decoration of the exterior of wooden buildings.
+
+
+
+
+The Preservation of the Exterior of Wooden Buildings
+
+
+_Lumber and its Relation to Paints_: The proper choice and treatment of
+lumber is one of the most important problems which the builder as well
+as the painter has to face. When about to build a dwelling, barn, or
+other structure made principally of wood, the question is sure to arise
+in regard to what variety to select so as to get the maximum service
+and money value. The locality in which the structure is to be built
+must often have a bearing upon this question. While it is true that the
+painting of each type of wood demands the special consideration of the
+painter, it is also true that the study of paints for wood protection
+points toward the production of a paint that will give satisfactory
+results under all conditions and on all grades. It is the writers'
+opinion that a paint may be made that will be perfectly well suited
+for the preservation of every species of wood, provided the paint is
+properly treated in the hands of the skillful and intelligent painter,
+who can produce lasting results on almost every type by varying the
+proportion of thinners and oil in the various coats. The painter who
+uses the same paint on soft pine, and again on hard pine, without
+making a special study of how to reduce the priming coat for the hard
+pine, will be likely to get inferior results on the latter. In case
+of failure, the natural impulse is often to place the blame upon the
+paint, whereas the real responsibility may rest upon the painter's lack
+of knowledge.
+
+  Note.--For a more detailed account of the lumber question,
+       see "Modern Lumber as a Problem for the Painter," read by
+       John Dewar, at the Convention of Master House Painters' and
+       Decorators' Association of Pennsylvania, January, 1911,
+       Pittsburg, Pa.
+
+
+  Photographs Showing Different Forms of
+  Decay Exhibited by Improperly
+  Made Paints
+
+[Illustration: Blistering]
+
+[Illustration: Chalking]
+
+[Illustration: Checking]
+
+[Illustration: Cracking]
+
+[Illustration: Scaling]
+
+[Illustration: General Disintegration]
+
+_Signs of Paint Failure_: Those who are responsible for the care and
+maintenance of property are familiar with the condition of surface
+presented by almost all wooden buildings or structures which have been
+improperly painted with inferior paints. "Chalking" or "flouring"
+are terms used to describe the condition of a paint surface which
+has deteriorated within the paint film. The formation of minute
+fissures, generally spoken of as "checking," as well as the effects
+best described as cracking, scaling, peeling, and blistering, are
+other signs of failure which cause paint coatings to present an
+unsightly appearance, and which point inevitably either to the use of
+improperly made paints or to improper application. The cause of these
+conditions is not difficult to understand when even a brief study of
+the character of the materials entering into the composition of a paint
+has been made. It is, however, a fortunate circumstance that the proper
+admixture of different types of pigments enables us to correct the
+strong tendency exhibited by special pigments to rapidly deteriorate
+in an oil film. This point will be more fully discussed in a later
+paragraph.
+
+
+_Requisites of a Good Paint_: Progressive manufacturers are aiming to
+produce a paint which will show, under the widest range of conditions,
+good hiding power, adhesiveness, freedom from internal strains,
+permanency of color, relatively high imperviousness to moisture,
+sufficient elasticity to prevent scaling or cracking when subjected
+to expansion or contraction, and freedom from the chemical action
+which results in deep checking or excessive chalking. Such a product
+as this cannot be attained, in the writers' opinion, by the use of
+any one pigment in linseed oil. In order to meet all the demands as
+stated above, there should be in an economical and durable paint a
+proper percentage of the various pigments which, united, will tend to
+correct each other's faults, and thus produce a durable paint coating
+of maximum efficiency.
+
+
+_The Composition of Paints_: As is well known, a paint is a mixture of
+one or more pigments and a vehicle which acts the part of the spreading
+and binding medium. Up to the present time the vehicle portion of
+paints has generally been made of linseed oil, admixed with some
+volatile thinner, such as turpentine. The subject of oils and paint
+vehicles will be discussed more fully later on.
+
+
+_Physical Properties of Pigments_: The pigment portion of a paint
+for use on barns and farm buildings may, if desired, be composed
+of properly selected iron oxides or other colored pigments, even
+containing in some cases a moderately high percentage of silica, clay,
+or other inert materials, and give perfectly satisfactory results. For
+the preservation and decoration of dwellings, however, the pigment
+portion of paints is generally made as a whole or in part of the more
+expensive white pigments, such as white lead and zinc oxide. The
+relative values and properties of these white base pigments will now be
+taken up.
+
+
+_White Leads_: White lead, either of the corroded or sublimed type, is
+perhaps the most generally used of all the white pigments as a paint
+base. Corroded white lead is a basic carbonate of lead, while sublimed
+white lead is a basic sulphate of the same metal. Both of these types
+are white, and admirably adapted as painting materials. They take
+relatively the same amount of oil and spread easily, producing paint
+films which are highly opaque and which, therefore, hide efficiently
+the surface upon which they are placed. Sublimed white lead is a
+relatively finer pigment than corroded white lead, and seems to show
+a tendency to chalk to a greater extent upon exposure to the weather.
+Corroded white lead is more alkaline, however, than sublimed white
+lead, and when used alone with linseed oil generally shows a tendency
+to chalk to a considerable extent in a short time and to show deep
+checking, thus permitting the admission of moisture. The alkaline
+nature of this pigment produces considerable action upon certain
+tinting colors and results in fading or darkening, when mixed with
+delicate greens or blues.
+
+The use of white lead has been condemned in some parts of this country
+as well as abroad, because of its alleged poisonous properties. While
+it is true that lead poisoning may occasionally occur in some factories
+where the workman and his conditions are not properly safeguarded, it
+is, nevertheless, a fact that lead poisoning very seldom occurs among
+painters of experience and cleanly habits. Carelessness in mixing
+white lead is, fortunately, a practice almost obsolete among modern
+painters. The use of paints already ground in oil by means of machinery
+to a pasty condition, allowing easy working and reducing, obviates the
+danger of lead poisoning from any such cause as this, even though the
+percentage of lead in such paints is in preponderance. Recent efforts
+that have been made by the legislatures of certain States to brand
+lead paints as poisonous are not only unnecessary, but show a complete
+ignorance of the problem.
+
+
+_Zinc Pigments_: Another pigment which has proved itself of great
+value to the painter is zinc oxide. The use of this pigment may be
+said to have almost revolutionized the paint industry of the world,
+and its increased consumption during the last ten years is sufficient
+evidence of its value as a painting material. Zinc oxide is produced
+by oxidation and sublimation of zinc ores and is not only extremely
+fine, but of great whiteness. It has good hiding power, although not
+quite so great as that shown by the white leads. It tends to produce
+a glossy surface, making it especially valuable for use on interior
+work and in enamels. When used alone it has the effect of hardening
+the oil film in which it is enveloped, and upon long exposure causes
+cracking and scaling. However, when the sublimed or corroded white
+leads are properly combined with zinc oxide, a more durable surface is
+produced, the shortcomings of each pigment being overbalanced by the
+good properties of the other. The proper combining properties of zinc
+oxide with white lead may be said to vary between 20 to 55 per cent
+of zinc oxide for paints designed for exterior use. In the opinion of
+the authors, lead and zinc pigments in the above percentage, properly
+blended and ground, make paints of far better wearing value than can be
+produced with either white lead or zinc oxide used alone.
+
+
+_Zinc Lead_: Zinc lead, a pigment sublimed from mixed lead and zinc
+ores and containing about equal proportions of zinc oxide and lead
+sulphate intimately combined, as well as leaded zinc, a produce
+similarly produced, but with the zinc oxide running about 75 per cent,
+are white base pigments of value, which are used to a considerable
+extent. They are generally slightly off color, however, and are
+therefore used most largely in paints which are to be tinted in various
+colors.
+
+
+_Lithopone_: Lithopone, a pigment produced by precipitation, and
+consisting of zinc sulphide and barium sulphate, is of great value in
+the manufacture of interior paints. On account of its liability to
+darken and disintegrate, however, it is seldom used on exterior work,
+although recent tests have shown that when used in combination with
+zinc oxide and whiting, it gives very promising results.
+
+
+_Crystalline Pigments and Their Use_: Barytes (barium sulphate), silex
+(silica), whiting (calcium carbonate), gypsum (calcium sulphate),
+asbestine (silicate of magnesia), and China clay (silicate of
+alumina) are white crystalline pigments which, when ground in oil,
+become transparent. All of these pigments possess the property of
+strengthening a paint film made of white lead and zinc oxide, and often
+increase the durability of such a paint. Barytes, silica, and China
+clay are especially valuable for this purpose. Asbestine, because of
+its needle-like structure and low gravity, prevents settling and acts
+as a reinforcer of paint films. Whiting or calcium carbonate should be
+used when zinc oxide is in excess in a paint, so that the hardness of
+the paint may be overcome.
+
+A white paint must be possessed of sufficient opacity to efficiently
+hide the surface upon which it is placed, when three coats are applied
+for new work or two coats for repainting work. Mixtures of the white
+leads and zinc oxide, with the latter pigment running not over 55 per
+cent, will easily produce such a result and wear well. It is generally
+deemed advisable, however, by most manufacturers to take advantage of
+the excessive opacity of such mixtures, which allows the introduction
+of moderate percentages of those inert pigments which give greater
+strength and other desirable features to a paint. The percentage of
+natural crystalline inert pigments to add to a white paint made of
+lead and zinc must, however, be moderate and insufficient to detract
+materially from the hiding power of the paint.
+
+  Note.--Pigments such as silica, barytes, China clay, and
+       asbestine are thoroughly inert. Recent investigations have
+       proved that they accelerate the drying of linseed oil, but
+       this is not due to any chemical action they exert, but rather
+       to their physical action in distributing the mass of oil in
+       which they are ground, and thus allowing a greater surface to be
+       exposed to the oxygen of the air.
+
+       It is also possible that some of the inert pigments may stimulate
+       oxidation by catalytic or contact action, although they are not
+       chemically active in themselves.
+
+
+_White-Paint Formulas_: From these conclusions which have come
+from wide experience in the testing of paints under actual service
+conditions, there can be recommended to the buyer of paints and to the
+manufacturer and master painter those machine-mixed paints in white,
+made by reputable manufacturers, the composition of which will show a
+mixture of white lead and zinc oxide, with the latter pigment within
+limits of between 15 to 55 per cent, and especially the same mixtures
+reinforced with the moderate percentage of crystalline inert pigments
+referred to above.
+
+Tinted paints possess greater hiding power than white paints, and
+the above proportions would be somewhat changed for a tinted paint
+containing any percentage of coloring material. Tinted paints are,
+moreover, far more serviceable than white paints, as will be shown
+later.
+
+
+_Mill vs. Paddle_: The mixtures under consideration should be ground
+in linseed oil by the manufacturer, through stone or steel mills, to
+a very fine condition, as it is only through proper grinding that the
+pigments can be properly blended. The mixing of paint by hand is,
+fortunately, to a large extent a thing of the past. The uneven lumping
+of hand-mixed paints are often the cause of their failure. Such ancient
+and crude practice should be avoided by every painter, for it is more
+economical to obtain semi-paste paints, properly ground by machinery,
+to such a condition that they may be easily broken up and tempered.
+Such paints may be reduced to the proper consistency with oil and
+volatile thinner for application to any kind of wood.
+
+In the opinion of the writers, a majority of the paints sold by
+reputable dealers and made by reputable manufacturers in this country
+are not only made from the best linseed oil and highest-grade pigments
+obtainable, but are put up in a form ready for the painter to thin down
+with full oil or turpentine reductions, either for priming work or to
+be used without reductions for finishing coats. The large metropolitan
+painter who wishes to make his own tints and shades may, however,
+prefer to have his mixed pigment paint ground by the manufacturer in
+heavy paste form for certain purposes.
+
+
+_Results of Field Tests_: A careful analysis of the results of field
+tests which have been carried on in different parts of the country
+would be far too voluminous for insertion in this bulletin. The
+official findings of special committees of inspection have already been
+published in special reports. Whereas there may still remain ground
+for some difference of opinion in regard to the interpretation of the
+results obtained on the various test fences, there can be no doubt that
+considerable information of the highest value has been yielded, both
+to the producers and consumers of paints. One of the principal results
+obtained from these tests has led to the opinion expressed above by the
+writers, that better results can be obtained by a proper mixture of
+selected pigments than by the use of any one pigment in linseed oil.
+This conclusion has also been reached by engineers of the United States
+Navy, and, as a result, the specifications of the Bureau of Yards and
+Docks for paints made of straight white lead and oil have recently been
+changed to call for white lead combined with upwards of 50 per cent
+of zinc oxide. Many engineers and master painters have interpreted the
+results of the tests in the same way, and the attention of the authors
+has been called to a number of opinions which show that the tendency
+of demand among those who are properly informed is for a high-grade
+combination type of paint rather than for any single pigment paint.
+
+
+_Color_: The selection of the color for a dwelling or other structure
+is a matter that depends largely upon the good judgment and taste of
+the owner, combined with the advice of the painter. One point, however,
+should be impressed upon the mind of both, namely, that PRACTICALLY
+ALL SHADES OR TINTS MADE UPON A GOOD WHITE PAINT BASE, THROUGH THE USE
+OF PERMANENT TINTING COLORS, WILL BETTER WITHSTAND EXPOSURE TO THE
+ATMOSPHERE THAN THE WHITE BASE USED ALONE. Owing to the cheerful
+effect produced by the use of white paint on dwellings, a very large
+quantity of white will continue to be used. If these white paints are
+designed in line with the suggestions brought out above--that is to
+say, if the white lead bases are properly reinforced with zinc oxide
+and other pigmentary materials--better results will undoubtedly be
+obtained, as far as appearance and durability is concerned, than if
+white lead had been used alone. The consumer should remember, however,
+that more durable results will be obtained by the use of tinted paints.
+
+
+_Reductions and Thinners_: Turpentine, with its sweet odor, high
+solvent action, and wonderful oxidizing value, has always taken first
+place among the volatile liquids used for thinning paints. Wood
+turpentines, produced from the steam distillation of fine-cut fat
+pinewood or from the destructive distillation of stumpage and sawdust,
+have been refined in some cases, by elimination of odor and toxic
+effects, to such purity that they are equally as good as the purest
+grades of gum turpentine, and their use is bound to increase in the
+paint industry.
+
+The painter and manufacturer have come to understand that certain
+grades of asphaltum and paraffine distillates are equally as
+satisfactory as turpentine for use in paints for exterior purposes.
+Those volatile oils which are distilled from crude oil with either
+a paraffine or asphaltum base and possessed of boiling point, flash
+point, color, and evaporative value approximating similar constants of
+turpentine, are excellently suited to partly, and in some cases wholly,
+replace turpentine in exterior paints. A little additional drier added
+to paints thinned with these materials will cause oxidation to take
+place in the proper time.
+
+       *       *       *       *       *
+
+Prominent master painters[A] have shown that benzol, a product obtained
+from the distillation of coal tar, differing from benzine, a product
+obtained from the distillation of petroleum, is a valuable thinner to
+use in the reduction of paints for the priming of resinous lumber such
+as cypress and yellow pitch pine. The penetrating and solvent value of
+benzol is high, and it often furnishes a unison between paint and wood
+that is a prime foundation to subsequent coatings, preventing the usual
+scaling and sap exudations, which often appear on a painted surface.
+Because of the great solvent action of benzol, however, this material
+should never be used in the second and third coatings. These facts will
+doubtless interest the Southern painter, who has so much wood of a
+refractory nature to paint.
+
+[A] Dewar, Titzel _et al._
+
+
+_Oils_: The increasing cost of linseed oil has raised the interesting
+question as to whether or not it is good practice to use an admixture
+of other oils in connection with it, in high grade paint coatings.
+Strong differences of opinion will probably be found in regard to this
+question, and undoubtedly further investigation work is necessary in
+order to decide it. A number of different oils have been proposed for
+the purpose, of which, perhaps, soya bean oil is the one which has been
+most prominently discussed. No definite formulas, however, should be
+recommended until the results of investigations which are now being
+carried on are in hand. A systematic series of test panels is now
+being erected in Washington, D. C., on the grounds of The Institute of
+Industrial Research, which are designed to gather data covering just
+this point.
+
+The flax crop conditions have been most discouraging during the past
+two years, and the natural shortage of seed has caused a rise in the
+price of linseed oil, which has necessitated a rise in the price
+of paint. The added protection to be secured, however, through the
+frequent application of paint far outweighs any increased cost which
+has been caused by the rise in price of the raw commodities entering
+into the composition of paint.
+
+       *       *       *       *       *
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Preservation of the Exterior of
+Wooden Buildings, by Allerton S. Cushman and Henry A. Gardner
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PRESERVATION EXTERIOR WOODEN BUILDINGS ***
+
+***** This file should be named 62444.txt or 62444.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/4/4/62444/
+
+Produced by Charlene Taylor, Tom Cosmas and the Online
+Distributed Proofreading Team at https://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
