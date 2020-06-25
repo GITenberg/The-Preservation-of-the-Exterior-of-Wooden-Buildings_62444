@@ -1,0 +1,34 @@
+_repo: The-Preservation-of-the-Exterior-of-Wooden-Buildings_62444
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Gardner, Henry A. (Henry Alfred)
+    aliases:
+    - Gardner, H. A. (Henry Alfred)
+    - Gardner, Henry Alfred
+    birthdate: 1882
+    deathdate: 1973
+    gutenberg_agent_id: '38832'
+    url: http://www.gutenberg.org/2009/agents/38832
+  - agent_name: Cushman, Allerton S. (Allerton Seward)
+    alias: Cushman, Allerton Seward
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '51944'
+    url: http://www.gutenberg.org/2009/agents/51944
+description: ''
+gutenberg_issued: '2020-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62444'
+  lccn: '11011909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'House painting'
+- !lcc 'TT'
+- GITenberg
+title: The Preservation of the Exterior of Wooden Buildings
+url: http://www.gutenberg.org/ebooks/62444
